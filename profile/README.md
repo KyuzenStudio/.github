@@ -3,7 +3,7 @@
 An independent software studio that builds systems from the ground up - operating systems, backend services, applications, and machine learning tooling.
 
 - **Website:** [kyuzenstudio.com](https://kyuzenstudio.com/en)
-- **KyuzenOS:** [os.kyuzenstudio.com](https://os.kyuzenstudio.com/en)
+- **KyuzenOS:** [os.kyuzenstudio.com](https://os.kyuzenstudio.com)
 - **Contact:** [contact@kyuzenstudio.com](mailto:contact@kyuzenstudio.com)
 
 ---
